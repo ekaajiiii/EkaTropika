@@ -1,2 +1,2 @@
-# EkaTropika
+# Eka
 Web
